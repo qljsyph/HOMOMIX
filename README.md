@@ -17,18 +17,12 @@
 
         例如：https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
-4、部分网络环境需要借助镜像加速
-
-        添加前缀：https://ghp.ci.com/
-        
-        例如：https://ghp.ci/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
-
-5、面板可以调节尺寸与距离
+#### 4、面板可以调节尺寸与距离
 
 # Icon版本：
 
-        等高版本（默认设置下）
-        满高版本（Color/Large）
+        等高版本（默认设置, “Color/”）
+        满高版本（“Color/Large”）
 
 <!--start-icons-->
 
@@ -510,6 +504,10 @@
         <span style="font-size: 8px;">Piggies</span>
     </td></tr><tr>
     <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Piggies_b.png" alt="Piggies_b.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Piggies_b</span>
+    </td>
+    <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Pixiv.png" alt="Pixiv.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Pixiv</span>
     </td>
@@ -518,7 +516,7 @@
         <span style="font-size: 8px;">Playstatio...</span>
     </td>
     <td align="center" style="padding: 10px;">
-        <img src="Icon/Color/Playstation_2.png" alt="Playstation_2.png" width="60" height="60"><br>
+        <img src="Icon/Color/Playstation_30th.png" alt="Playstation_30th.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Playstatio...</span>
     </td>
     <td align="center" style="padding: 10px;">
@@ -532,11 +530,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Pornhub.png" alt="Pornhub.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Pornhub</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Prime.png" alt="Prime.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Prime</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Qoura.png" alt="Qoura.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Qoura</span>
@@ -560,11 +558,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Seancody.png" alt="Seancody.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Seancody</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Server.png" alt="Server.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Server</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Settings.png" alt="Settings.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Settings</span>
@@ -588,11 +586,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/South_Korea.png" alt="South_Korea.png" width="60" height="60"><br>
         <span style="font-size: 8px;">South_Kore...</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/SpeedTest.png" alt="SpeedTest.png" width="60" height="60"><br>
         <span style="font-size: 8px;">SpeedTest</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Spotify.png" alt="Spotify.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Spotify</span>
@@ -616,11 +614,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Threads.png" alt="Threads.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Threads</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Tick.png" alt="Tick.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Tick</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Tick_2.png" alt="Tick_2.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Tick_2</span>
@@ -644,11 +642,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/UBISOFT.png" alt="UBISOFT.png" width="60" height="60"><br>
         <span style="font-size: 8px;">UBISOFT</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/UK.png" alt="UK.png" width="60" height="60"><br>
         <span style="font-size: 8px;">UK</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/USA.png" alt="USA.png" width="60" height="60"><br>
         <span style="font-size: 8px;">USA</span>
@@ -672,11 +670,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/X.png" alt="X.png" width="60" height="60"><br>
         <span style="font-size: 8px;">X</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Xbox.png" alt="Xbox.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Xbox</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/xHamster.png" alt="xHamster.png" width="60" height="60"><br>
         <span style="font-size: 8px;">xHamster</span>
@@ -700,7 +698,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Zune.png" alt="Zune.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Zune</span>
-    </td></tr></table>
+    </td></tr><tr></tr></table>
 
 <!--end-icons-->
 
